@@ -7,6 +7,7 @@ for i in nums:
     
 print(sum)
 
+
 # sum함수 이용 
 # n = input()
 # print(sum(map(int,input())))
