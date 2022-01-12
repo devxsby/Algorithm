@@ -9,3 +9,5 @@ for i in range (1,n+1):
     for i in range(1,n+1):
         print(" "*(n-i) + "*"*i)]
     """
+    
+# 응용문제 더 풀어보기
