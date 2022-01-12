@@ -9,4 +9,4 @@ for i in num[1:]:
     elif i < min:
         min = i
         
-print(min,max)
+print(min,max) 
