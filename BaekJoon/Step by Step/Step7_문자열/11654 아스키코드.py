@@ -1,1 +1,1 @@
-print(ord(input()))
+print(ord(input())) # ord 함수로 아스키코드 변환
