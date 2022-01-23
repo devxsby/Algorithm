@@ -10,7 +10,7 @@ def rotate_a_matrix_by_90_degree(a):
             
     return res
 
-# 사용 예시 (2020 카카오 기출 '자물쇠와 열쇠')
+# 사용 예시
 a =[
     [1, 2, 3, 4],
     [5, 6, 7, 8],
