@@ -2,5 +2,5 @@
 a, b = input().split()
 a = int(a)
 b = int(b)
-c = (a if (a>=b) else b)
-print(int(c))
+max = (a if (a>=b) else b) # 3항연산
+print(int(max))
