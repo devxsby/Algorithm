@@ -2,7 +2,7 @@
 a, b = map(int,input().split())
 print(bool(int(a) or int(b)))
 
-# a b  a&&b
+# a b   a&&b
 # 0 0    0
 # 0 1    1
 # 1 0    1
