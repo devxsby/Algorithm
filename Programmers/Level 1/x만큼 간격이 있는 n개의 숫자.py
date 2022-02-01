@@ -5,3 +5,9 @@ def solution(x, n):
         if len(answer) < n:
             answer.append(x*i)
     return answer
+
+# 다른 풀이 : 한줄로 써서 깔끔함
+'''
+def solution(x, n):
+    return [i for i in range(x, x*n+1, x)]
+'''

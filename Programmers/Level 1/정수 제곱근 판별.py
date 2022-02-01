@@ -6,7 +6,6 @@ def solution(n):
         answer = -1
     return answer
 
-
 # 다른 풀이 : 더 깔끔함. import math도 안해도 됨.
 '''
 def nextSqure(n):
