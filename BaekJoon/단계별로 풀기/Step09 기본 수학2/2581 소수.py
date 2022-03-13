@@ -1,3 +1,4 @@
+# 소수 구하기 (원래 풀던 방식 아님)
 a = int(input())
 b = int(input())
 

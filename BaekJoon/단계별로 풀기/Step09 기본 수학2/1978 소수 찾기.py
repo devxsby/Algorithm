@@ -1,4 +1,4 @@
-# 에라토스테네스의 체 알고리즘 2
+# 에라토스테네스의 체 알고리즘
 def isPrime(n):
 	if n <= 1:
 		return False
