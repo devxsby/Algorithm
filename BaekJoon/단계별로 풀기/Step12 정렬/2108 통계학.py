@@ -1,8 +1,9 @@
-n = int(input())
+import sys
+n = int(sys.stdin.readline())
 
 nums = []
 for _ in range(n) :
-	nums.append(int(input()))
+	nums.append(int(sys.stdin.readline()))
 
 # 산술평균
 print(round(sum(nums)/n))
